@@ -1,2 +1,3 @@
 [2020-04-01T10:30:58] feat: add validation logic for user input
 [2020-04-01T11:21:35] refactor: clean up legacy code in core module
+[2020-04-01T10:20:38] feat: add validation logic for user input
