@@ -6155,3 +6155,4 @@
 [2020-04-06T14:06:58] fix: resolve minor bug in api response handling
 [2020-04-06T15:12:56] fix: resolve minor bug in api response handling
 [2020-04-06T15:39:44] chore: update dependencies
+[2020-04-08T15:31:10] feat: add validation logic for user input
