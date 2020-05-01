@@ -47,3 +47,4 @@
 [2020-04-29T12:20:03] fix: resolve minor bug in api response handling
 [2020-04-29T11:24:57] fix: resolve minor bug in api response handling
 [2020-04-30T14:44:55] feat: add validation logic for user input
+[2020-05-01T16:58:13] fix: handle null pointer exception in service layer
