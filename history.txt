@@ -6209,3 +6209,4 @@
 [2020-05-05T17:22:56] fix: resolve minor bug in api response handling
 [2020-05-05T15:40:38] feat: add validation logic for user input
 [2020-05-05T16:35:48] refactor: clean up legacy code in core module
+[2020-05-05T17:24:26] refactor: clean up legacy code in core module
