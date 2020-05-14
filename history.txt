@@ -68,3 +68,4 @@
 [2020-05-13T10:28:19] fix: resolve minor bug in api response handling
 [2020-05-13T15:24:06] fix: resolve minor bug in api response handling
 [2020-05-14T14:37:13] fix: handle null pointer exception in service layer
+[2020-05-14T18:38:53] refactor: clean up legacy code in core module
