@@ -72,3 +72,4 @@
 [2020-05-15T12:15:04] feat: add validation logic for user input
 [2020-05-15T17:36:55] fix: resolve minor bug in api response handling
 [2020-05-15T13:34:44] fix: handle null pointer exception in service layer
+[2020-05-15T14:06:58] refactor: clean up legacy code in core module
