@@ -6245,3 +6245,4 @@
 [2020-05-18T12:15:21] refactor: clean up legacy code in core module
 [2020-05-19T13:48:11] fix: resolve minor bug in api response handling
 [2020-05-19T13:50:19] chore: update dependencies
+[2020-05-19T15:33:58] refactor: clean up legacy code in core module
