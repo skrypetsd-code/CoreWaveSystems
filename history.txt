@@ -6251,3 +6251,4 @@
 [2020-05-20T18:21:28] chore: update dependencies
 [2020-05-20T13:20:58] refactor: clean up legacy code in core module
 [2020-05-21T18:07:15] chore: update dependencies
+[2020-05-21T12:59:55] refactor: clean up legacy code in core module
