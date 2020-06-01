@@ -2,3 +2,4 @@
 [2020-06-01T11:22:20] feat: add validation logic for user input
 [2020-06-01T13:36:32] feat: add validation logic for user input
 [2020-06-01T18:45:28] fix: handle null pointer exception in service layer
+[2020-06-01T17:41:01] feat: add validation logic for user input
