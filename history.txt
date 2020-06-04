@@ -6284,3 +6284,4 @@
 [2020-06-04T11:13:55] feat: add validation logic for user input
 [2020-06-04T16:27:37] refactor: clean up legacy code in core module
 [2020-06-04T12:45:50] feat: add validation logic for user input
+[2020-06-04T15:36:39] refactor: clean up legacy code in core module
