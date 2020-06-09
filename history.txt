@@ -121,3 +121,4 @@
 [2020-06-08T18:19:49] feat: add validation logic for user input
 [2020-06-09T13:45:53] chore: update dependencies
 [2020-06-09T13:14:07] chore: update dependencies
+[2020-06-09T10:00:36] chore: update dependencies
