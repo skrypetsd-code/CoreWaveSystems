@@ -4645,3 +4645,4 @@
 [2020-06-11T11:57:07] fix: resolve minor bug in api response handling
 [2020-06-11T16:41:32] refactor: clean up legacy code in core module
 [2020-06-11T13:17:14] fix: handle null pointer exception in service layer
+[2020-06-11T16:15:06] chore: update dependencies
