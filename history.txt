@@ -39,3 +39,4 @@
 [2020-06-15T11:25:37] chore: update dependencies
 [2020-06-15T11:19:04] fix: resolve minor bug in api response handling
 [2020-06-17T15:40:51] feat: add validation logic for user input
+[2020-06-17T16:45:28] feat: add validation logic for user input
