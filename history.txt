@@ -6318,3 +6318,4 @@
 [2020-06-23T15:37:01] chore: update dependencies
 [2020-06-23T18:44:48] fix: handle null pointer exception in service layer
 [2020-06-24T15:41:49] chore: update dependencies
+[2020-06-24T18:24:49] fix: resolve minor bug in api response handling
