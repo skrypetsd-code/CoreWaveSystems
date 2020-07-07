@@ -6351,3 +6351,4 @@
 [2020-07-07T14:29:55] feat: add validation logic for user input
 [2020-07-07T15:28:20] fix: resolve minor bug in api response handling
 [2020-07-07T14:14:51] refactor: clean up legacy code in core module
+[2020-07-07T15:52:21] chore: update dependencies
