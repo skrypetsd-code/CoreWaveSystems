@@ -6362,3 +6362,4 @@
 [2020-07-14T15:15:37] chore: update dependencies
 [2020-07-14T13:58:29] fix: resolve minor bug in api response handling
 [2020-07-15T18:35:10] refactor: clean up legacy code in core module
+[2020-07-15T17:51:09] refactor: clean up legacy code in core module
