@@ -6382,3 +6382,4 @@
 [2020-07-22T11:42:10] chore: update dependencies
 [2020-07-22T11:54:37] feat: add validation logic for user input
 [2020-07-22T18:07:22] chore: update dependencies
+[2020-07-22T16:18:18] refactor: clean up legacy code in core module
