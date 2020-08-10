@@ -157,3 +157,4 @@
 [2020-08-07T14:32:33] chore: update dependencies
 [2020-08-07T13:34:35] fix: resolve minor bug in api response handling
 [2020-08-07T17:56:14] refactor: clean up legacy code in core module
+[2020-08-10T15:10:23] feat: add validation logic for user input
