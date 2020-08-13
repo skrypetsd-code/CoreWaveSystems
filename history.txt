@@ -265,3 +265,4 @@
 [2020-08-11T17:19:42] feat: add validation logic for user input
 [2020-08-11T13:59:08] feat: add validation logic for user input
 [2020-08-11T12:59:51] feat: add validation logic for user input
+[2020-08-13T12:08:36] fix: resolve minor bug in api response handling
