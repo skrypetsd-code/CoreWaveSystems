@@ -168,3 +168,4 @@
 [2020-08-13T17:19:46] refactor: clean up legacy code in core module
 [2020-08-14T16:52:18] fix: handle null pointer exception in service layer
 [2020-08-14T10:25:30] fix: resolve minor bug in api response handling
+[2020-08-14T18:38:47] chore: update dependencies
