@@ -272,3 +272,4 @@
 [2020-08-18T12:56:16] feat: add validation logic for user input
 [2020-08-20T15:04:34] fix: resolve minor bug in api response handling
 [2020-08-20T14:04:20] fix: resolve minor bug in api response handling
+[2020-08-20T17:46:41] chore: update dependencies
