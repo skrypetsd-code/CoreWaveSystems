@@ -197,3 +197,4 @@
 [2020-08-27T13:18:19] feat: add validation logic for user input
 [2020-08-27T17:12:53] feat: add validation logic for user input
 [2020-08-27T10:53:49] refactor: clean up legacy code in core module
+[2020-08-28T13:02:51] chore: update dependencies
