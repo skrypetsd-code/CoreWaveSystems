@@ -210,3 +210,4 @@
 [2020-09-01T18:20:38] fix: resolve minor bug in api response handling
 [2020-09-01T17:53:51] chore: update dependencies
 [2020-09-04T15:47:28] chore: update dependencies
+[2020-09-04T16:55:41] chore: update dependencies
