@@ -6477,3 +6477,4 @@
 [2020-09-09T13:16:29] feat: add validation logic for user input
 [2020-09-09T10:40:38] fix: handle null pointer exception in service layer
 [2020-09-09T13:42:00] chore: update dependencies
+[2020-09-09T15:56:07] fix: resolve minor bug in api response handling
