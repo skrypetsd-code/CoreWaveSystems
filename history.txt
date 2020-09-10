@@ -312,3 +312,4 @@
 [2020-09-09T10:24:13] refactor: clean up legacy code in core module
 [2020-09-09T16:19:10] feat: add validation logic for user input
 [2020-09-09T17:29:28] fix: resolve minor bug in api response handling
+[2020-09-10T10:10:07] fix: handle null pointer exception in service layer
