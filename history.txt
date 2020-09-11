@@ -4834,3 +4834,4 @@
 [2020-09-10T12:21:24] refactor: clean up legacy code in core module
 [2020-09-10T15:38:05] refactor: clean up legacy code in core module
 [2020-09-10T14:06:54] refactor: clean up legacy code in core module
+[2020-09-11T18:47:55] refactor: clean up legacy code in core module
