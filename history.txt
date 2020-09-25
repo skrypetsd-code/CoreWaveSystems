@@ -244,3 +244,4 @@
 [2020-09-22T11:13:13] feat: add validation logic for user input
 [2020-09-22T17:59:56] refactor: clean up legacy code in core module
 [2020-09-25T13:37:05] fix: handle null pointer exception in service layer
+[2020-09-25T13:25:23] feat: add validation logic for user input
