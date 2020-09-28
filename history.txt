@@ -6518,3 +6518,4 @@
 [2020-09-25T12:24:18] fix: handle null pointer exception in service layer
 [2020-09-25T11:39:12] chore: update dependencies
 [2020-09-25T10:41:14] chore: update dependencies
+[2020-09-28T13:19:46] fix: resolve minor bug in api response handling
