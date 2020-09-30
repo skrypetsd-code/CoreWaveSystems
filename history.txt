@@ -256,3 +256,4 @@
 [2020-09-30T11:50:41] fix: resolve minor bug in api response handling
 [2020-09-30T15:28:09] refactor: clean up legacy code in core module
 [2020-09-30T14:33:37] refactor: clean up legacy code in core module
+[2020-09-30T18:35:05] fix: resolve minor bug in api response handling
