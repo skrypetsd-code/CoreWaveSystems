@@ -266,3 +266,4 @@
 [2020-10-07T18:42:40] fix: handle null pointer exception in service layer
 [2020-10-07T12:20:34] fix: handle null pointer exception in service layer
 [2020-10-07T11:32:29] refactor: clean up legacy code in core module
+[2020-10-07T15:05:23] refactor: clean up legacy code in core module
