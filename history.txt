@@ -4867,3 +4867,4 @@
 [2020-10-02T12:04:20] fix: resolve minor bug in api response handling
 [2020-10-02T18:25:12] fix: resolve minor bug in api response handling
 [2020-10-06T10:36:19] fix: handle null pointer exception in service layer
+[2020-10-07T15:24:51] chore: update dependencies
