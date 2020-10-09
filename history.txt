@@ -380,3 +380,4 @@
 [2020-10-08T16:22:18] fix: resolve minor bug in api response handling
 [2020-10-08T15:31:48] fix: resolve minor bug in api response handling
 [2020-10-08T18:43:24] fix: handle null pointer exception in service layer
+[2020-10-09T10:07:17] fix: handle null pointer exception in service layer
