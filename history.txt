@@ -421,3 +421,4 @@
 [2020-10-29T11:52:27] fix: handle null pointer exception in service layer
 [2020-10-29T15:05:49] fix: resolve minor bug in api response handling
 [2020-10-29T13:11:57] fix: resolve minor bug in api response handling
+[2020-10-29T15:56:47] refactor: clean up legacy code in core module
