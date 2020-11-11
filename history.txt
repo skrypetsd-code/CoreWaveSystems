@@ -336,3 +336,4 @@
 [2020-11-10T12:52:13] refactor: clean up legacy code in core module
 [2020-11-10T17:29:23] refactor: clean up legacy code in core module
 [2020-11-10T18:02:18] fix: resolve minor bug in api response handling
+[2020-11-11T13:13:01] chore: update dependencies
