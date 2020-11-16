@@ -351,3 +351,4 @@
 [2020-11-16T10:16:50] chore: update dependencies
 [2020-11-16T17:39:03] chore: update dependencies
 [2020-11-16T15:35:59] refactor: clean up legacy code in core module
+[2020-11-16T16:43:32] fix: handle null pointer exception in service layer
