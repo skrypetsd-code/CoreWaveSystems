@@ -357,3 +357,4 @@
 [2020-11-17T12:12:56] chore: update dependencies
 [2020-11-17T15:18:53] feat: add validation logic for user input
 [2020-11-17T11:32:26] feat: add validation logic for user input
+[2020-11-17T11:56:57] fix: handle null pointer exception in service layer
