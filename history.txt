@@ -365,3 +365,4 @@
 [2020-11-19T11:52:58] feat: add validation logic for user input
 [2020-11-19T14:36:41] feat: add validation logic for user input
 [2020-11-19T14:00:24] chore: update dependencies
+[2020-11-19T12:09:57] fix: resolve minor bug in api response handling
