@@ -380,3 +380,4 @@
 [2020-11-26T10:16:36] fix: resolve minor bug in api response handling
 [2020-11-26T11:51:13] refactor: clean up legacy code in core module
 [2020-11-26T15:21:41] feat: add validation logic for user input
+[2020-11-26T16:21:59] chore: update dependencies
