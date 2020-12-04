@@ -400,3 +400,4 @@
 [2020-12-04T16:39:42] feat: add validation logic for user input
 [2020-12-04T10:52:49] fix: handle null pointer exception in service layer
 [2020-12-04T11:09:07] fix: handle null pointer exception in service layer
+[2020-12-04T10:18:37] feat: add validation logic for user input
