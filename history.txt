@@ -503,3 +503,4 @@
 [2020-12-04T17:20:07] fix: handle null pointer exception in service layer
 [2020-12-07T17:18:38] chore: update dependencies
 [2020-12-07T11:29:34] feat: add validation logic for user input
+[2020-12-07T10:57:22] fix: handle null pointer exception in service layer
