@@ -5005,3 +5005,4 @@
 [2020-12-15T14:44:50] fix: resolve minor bug in api response handling
 [2020-12-15T16:38:37] fix: resolve minor bug in api response handling
 [2020-12-16T15:23:23] refactor: clean up legacy code in core module
+[2020-12-16T16:11:05] fix: resolve minor bug in api response handling
