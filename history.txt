@@ -5013,3 +5013,4 @@
 [2020-12-17T18:20:29] refactor: clean up legacy code in core module
 [2020-12-17T11:45:24] refactor: clean up legacy code in core module
 [2020-12-17T12:55:41] fix: handle null pointer exception in service layer
+[2020-12-17T17:45:16] refactor: clean up legacy code in core module
