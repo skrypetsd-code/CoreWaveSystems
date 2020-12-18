@@ -426,3 +426,4 @@
 [2020-12-18T11:26:26] fix: handle null pointer exception in service layer
 [2020-12-18T11:34:36] refactor: clean up legacy code in core module
 [2020-12-18T16:43:34] fix: resolve minor bug in api response handling
+[2020-12-18T18:05:21] feat: add validation logic for user input
