@@ -440,3 +440,4 @@
 [2020-12-24T18:41:42] chore: update dependencies
 [2020-12-24T10:31:24] fix: handle null pointer exception in service layer
 [2020-12-25T10:41:36] fix: handle null pointer exception in service layer
+[2020-12-25T12:49:06] fix: resolve minor bug in api response handling
