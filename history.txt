@@ -443,3 +443,4 @@
 [2020-12-25T12:49:06] fix: resolve minor bug in api response handling
 [2020-12-28T17:13:52] fix: resolve minor bug in api response handling
 [2020-12-28T10:55:51] fix: resolve minor bug in api response handling
+[2020-12-28T17:26:26] fix: handle null pointer exception in service layer
