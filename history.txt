@@ -5043,3 +5043,4 @@
 [2020-12-29T16:44:18] fix: resolve minor bug in api response handling
 [2020-12-29T10:15:34] feat: add validation logic for user input
 [2020-12-29T18:01:24] chore: update dependencies
+[2020-12-30T12:55:39] chore: update dependencies
