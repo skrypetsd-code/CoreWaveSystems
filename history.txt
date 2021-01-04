@@ -5049,3 +5049,4 @@
 [2020-12-31T17:59:54] chore: update dependencies
 [2021-01-04T11:07:36] fix: handle null pointer exception in service layer
 [2021-01-04T14:58:13] fix: resolve minor bug in api response handling
+[2021-01-04T16:31:29] feat: add validation logic for user input
