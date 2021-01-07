@@ -578,3 +578,4 @@
 [2021-01-06T14:45:30] fix: resolve minor bug in api response handling
 [2021-01-07T11:11:21] refactor: clean up legacy code in core module
 [2021-01-07T10:13:07] fix: handle null pointer exception in service layer
+[2021-01-07T12:22:37] refactor: clean up legacy code in core module
