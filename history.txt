@@ -470,3 +470,4 @@
 [2021-01-07T11:11:17] fix: resolve minor bug in api response handling
 [2021-01-08T13:57:48] chore: update dependencies
 [2021-01-08T13:45:31] fix: resolve minor bug in api response handling
+[2021-01-08T17:24:31] chore: update dependencies
