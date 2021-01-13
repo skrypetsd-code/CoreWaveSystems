@@ -485,3 +485,4 @@
 [2021-01-12T11:03:12] chore: update dependencies
 [2021-01-13T12:08:32] fix: resolve minor bug in api response handling
 [2021-01-13T14:27:04] feat: add validation logic for user input
+[2021-01-13T13:01:57] fix: handle null pointer exception in service layer
