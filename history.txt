@@ -5067,3 +5067,4 @@
 [2021-01-13T10:59:25] fix: resolve minor bug in api response handling
 [2021-01-13T14:03:09] fix: handle null pointer exception in service layer
 [2021-01-13T10:00:50] fix: handle null pointer exception in service layer
+[2021-01-14T11:32:42] fix: handle null pointer exception in service layer
