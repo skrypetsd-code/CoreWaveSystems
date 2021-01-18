@@ -5069,3 +5069,4 @@
 [2021-01-13T10:00:50] fix: handle null pointer exception in service layer
 [2021-01-14T11:32:42] fix: handle null pointer exception in service layer
 [2021-01-18T14:10:55] refactor: clean up legacy code in core module
+[2021-01-18T16:58:50] fix: handle null pointer exception in service layer
