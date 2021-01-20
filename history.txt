@@ -5075,3 +5075,4 @@
 [2021-01-20T15:03:16] feat: add validation logic for user input
 [2021-01-20T18:20:41] fix: resolve minor bug in api response handling
 [2021-01-20T13:12:25] fix: resolve minor bug in api response handling
+[2021-01-20T18:20:00] fix: handle null pointer exception in service layer
