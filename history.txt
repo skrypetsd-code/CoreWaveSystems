@@ -505,3 +505,4 @@
 [2021-01-25T18:32:34] refactor: clean up legacy code in core module
 [2021-01-26T14:50:13] fix: handle null pointer exception in service layer
 [2021-01-26T16:34:41] refactor: clean up legacy code in core module
+[2021-01-29T12:51:27] fix: handle null pointer exception in service layer
