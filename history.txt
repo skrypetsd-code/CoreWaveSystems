@@ -540,3 +540,4 @@
 [2021-02-18T11:40:00] fix: resolve minor bug in api response handling
 [2021-02-18T12:32:21] chore: update dependencies
 [2021-02-18T14:45:02] fix: handle null pointer exception in service layer
+[2021-02-18T18:59:47] fix: resolve minor bug in api response handling
