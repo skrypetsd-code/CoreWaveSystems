@@ -5169,3 +5169,4 @@
 [2021-02-26T13:54:36] refactor: clean up legacy code in core module
 [2021-02-26T11:24:09] fix: handle null pointer exception in service layer
 [2021-02-26T18:16:12] refactor: clean up legacy code in core module
+[2021-03-01T11:51:28] chore: update dependencies
