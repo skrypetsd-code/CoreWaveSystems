@@ -5190,3 +5190,4 @@
 [2021-03-04T12:16:10] fix: resolve minor bug in api response handling
 [2021-03-08T11:55:22] fix: resolve minor bug in api response handling
 [2021-03-08T14:08:48] fix: handle null pointer exception in service layer
+[2021-03-08T15:49:48] fix: resolve minor bug in api response handling
