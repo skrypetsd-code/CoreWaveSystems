@@ -590,3 +590,4 @@
 [2021-03-11T13:24:21] fix: resolve minor bug in api response handling
 [2021-03-15T11:54:45] refactor: clean up legacy code in core module
 [2021-03-15T18:28:09] refactor: clean up legacy code in core module
+[2021-03-16T15:54:36] fix: resolve minor bug in api response handling
