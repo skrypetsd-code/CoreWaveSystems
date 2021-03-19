@@ -603,3 +603,4 @@
 [2021-03-18T11:33:52] fix: resolve minor bug in api response handling
 [2021-03-18T17:06:19] feat: add validation logic for user input
 [2021-03-19T14:14:12] refactor: clean up legacy code in core module
+[2021-03-19T15:13:00] chore: update dependencies
