@@ -717,3 +717,4 @@
 [2021-03-22T10:52:30] fix: handle null pointer exception in service layer
 [2021-03-23T17:05:52] chore: update dependencies
 [2021-03-23T12:33:41] feat: add validation logic for user input
+[2021-03-23T13:47:16] fix: resolve minor bug in api response handling
