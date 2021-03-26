@@ -727,3 +727,4 @@
 [2021-03-25T10:04:16] fix: resolve minor bug in api response handling
 [2021-03-25T17:52:19] feat: add validation logic for user input
 [2021-03-25T15:09:26] feat: add validation logic for user input
+[2021-03-26T16:59:43] feat: add validation logic for user input
