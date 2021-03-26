@@ -613,3 +613,4 @@
 [2021-03-25T10:15:42] chore: update dependencies
 [2021-03-25T11:26:33] fix: handle null pointer exception in service layer
 [2021-03-26T14:33:05] fix: handle null pointer exception in service layer
+[2021-03-26T16:30:45] fix: resolve minor bug in api response handling
