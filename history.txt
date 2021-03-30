@@ -616,3 +616,4 @@
 [2021-03-26T16:30:45] fix: resolve minor bug in api response handling
 [2021-03-26T17:18:15] chore: update dependencies
 [2021-03-26T17:56:12] fix: resolve minor bug in api response handling
+[2021-03-30T10:24:06] fix: resolve minor bug in api response handling
