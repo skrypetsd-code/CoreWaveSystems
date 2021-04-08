@@ -5245,3 +5245,4 @@
 [2021-04-06T12:27:22] refactor: clean up legacy code in core module
 [2021-04-07T16:43:46] feat: add validation logic for user input
 [2021-04-08T17:15:57] feat: add validation logic for user input
+[2021-04-08T16:24:34] fix: resolve minor bug in api response handling
