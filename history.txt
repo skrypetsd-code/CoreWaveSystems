@@ -654,3 +654,4 @@
 [2021-04-13T14:48:34] feat: add validation logic for user input
 [2021-04-13T14:11:47] fix: handle null pointer exception in service layer
 [2021-04-13T11:19:12] refactor: clean up legacy code in core module
+[2021-04-13T18:15:41] fix: resolve minor bug in api response handling
