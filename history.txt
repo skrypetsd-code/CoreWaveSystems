@@ -664,3 +664,4 @@
 [2021-04-14T10:26:18] fix: resolve minor bug in api response handling
 [2021-04-14T16:38:52] chore: update dependencies
 [2021-04-15T10:53:42] chore: update dependencies
+[2021-04-19T15:04:35] fix: resolve minor bug in api response handling
