@@ -803,3 +803,4 @@
 [2021-04-30T11:16:57] fix: handle null pointer exception in service layer
 [2021-04-30T14:33:57] fix: handle null pointer exception in service layer
 [2021-05-03T15:32:59] feat: add validation logic for user input
+[2021-05-03T18:52:47] fix: handle null pointer exception in service layer
