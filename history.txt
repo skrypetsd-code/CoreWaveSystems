@@ -707,3 +707,4 @@
 [2021-05-05T15:40:12] fix: resolve minor bug in api response handling
 [2021-05-05T12:26:18] chore: update dependencies
 [2021-05-05T15:01:28] fix: handle null pointer exception in service layer
+[2021-05-05T15:46:27] feat: add validation logic for user input
