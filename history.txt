@@ -5323,3 +5323,4 @@
 [2021-05-19T14:58:53] fix: handle null pointer exception in service layer
 [2021-05-19T11:45:23] refactor: clean up legacy code in core module
 [2021-05-19T10:56:53] refactor: clean up legacy code in core module
+[2021-05-19T13:28:33] fix: resolve minor bug in api response handling
