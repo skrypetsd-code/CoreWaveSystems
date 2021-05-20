@@ -5330,3 +5330,4 @@
 [2021-05-20T10:59:04] chore: update dependencies
 [2021-05-20T14:42:47] fix: handle null pointer exception in service layer
 [2021-05-20T17:36:58] fix: resolve minor bug in api response handling
+[2021-05-20T10:21:59] fix: handle null pointer exception in service layer
