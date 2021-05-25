@@ -5334,3 +5334,4 @@
 [2021-05-21T10:03:35] fix: resolve minor bug in api response handling
 [2021-05-24T18:32:01] refactor: clean up legacy code in core module
 [2021-05-25T13:38:31] chore: update dependencies
+[2021-05-25T12:22:11] refactor: clean up legacy code in core module
