@@ -5351,3 +5351,4 @@
 [2021-05-28T13:03:18] fix: handle null pointer exception in service layer
 [2021-05-28T11:31:57] fix: handle null pointer exception in service layer
 [2021-06-01T15:18:18] chore: update dependencies
+[2021-06-02T10:34:13] feat: add validation logic for user input
