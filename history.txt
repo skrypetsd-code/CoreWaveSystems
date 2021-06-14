@@ -787,3 +787,4 @@
 [2021-06-11T11:45:32] feat: add validation logic for user input
 [2021-06-11T12:32:24] feat: add validation logic for user input
 [2021-06-11T17:18:31] feat: add validation logic for user input
+[2021-06-14T18:18:42] chore: update dependencies
