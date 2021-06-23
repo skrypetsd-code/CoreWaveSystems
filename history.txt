@@ -805,3 +805,4 @@
 [2021-06-22T15:06:43] chore: update dependencies
 [2021-06-22T13:12:44] chore: update dependencies
 [2021-06-23T13:32:22] fix: resolve minor bug in api response handling
+[2021-06-23T11:23:33] refactor: clean up legacy code in core module
