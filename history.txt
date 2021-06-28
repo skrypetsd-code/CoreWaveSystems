@@ -811,3 +811,4 @@
 [2021-06-25T11:31:08] refactor: clean up legacy code in core module
 [2021-06-25T16:57:01] refactor: clean up legacy code in core module
 [2021-06-28T13:05:11] fix: handle null pointer exception in service layer
+[2021-06-28T13:58:53] refactor: clean up legacy code in core module
