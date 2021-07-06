@@ -841,3 +841,4 @@
 [2021-07-06T17:30:54] fix: handle null pointer exception in service layer
 [2021-07-06T16:43:57] refactor: clean up legacy code in core module
 [2021-07-06T18:20:19] feat: add validation logic for user input
+[2021-07-06T10:16:18] chore: update dependencies
