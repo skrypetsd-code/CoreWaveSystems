@@ -845,3 +845,4 @@
 [2021-07-08T13:42:53] fix: handle null pointer exception in service layer
 [2021-07-08T15:17:16] fix: handle null pointer exception in service layer
 [2021-07-09T15:51:07] fix: handle null pointer exception in service layer
+[2021-07-09T16:47:00] chore: update dependencies
