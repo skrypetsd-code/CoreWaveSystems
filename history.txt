@@ -5458,3 +5458,4 @@
 [2021-07-27T10:03:50] refactor: clean up legacy code in core module
 [2021-07-27T12:08:39] fix: handle null pointer exception in service layer
 [2021-07-27T18:30:37] feat: add validation logic for user input
+[2021-07-28T14:12:58] refactor: clean up legacy code in core module
