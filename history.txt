@@ -5476,3 +5476,4 @@
 [2021-08-02T17:23:22] fix: resolve minor bug in api response handling
 [2021-08-02T10:14:13] fix: resolve minor bug in api response handling
 [2021-08-03T12:11:35] fix: resolve minor bug in api response handling
+[2021-08-03T12:35:17] refactor: clean up legacy code in core module
