@@ -925,3 +925,4 @@
 [2021-08-20T14:48:27] refactor: clean up legacy code in core module
 [2021-08-20T18:52:49] chore: update dependencies
 [2021-08-20T13:03:45] fix: resolve minor bug in api response handling
+[2021-08-20T10:50:37] feat: add validation logic for user input
