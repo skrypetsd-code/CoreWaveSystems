@@ -930,3 +930,4 @@
 [2021-08-25T10:15:20] fix: handle null pointer exception in service layer
 [2021-08-26T16:38:27] chore: update dependencies
 [2021-08-26T10:13:57] fix: resolve minor bug in api response handling
+[2021-08-26T10:18:26] chore: update dependencies
