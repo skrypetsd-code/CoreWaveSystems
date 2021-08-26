@@ -928,3 +928,4 @@
 [2021-08-20T10:50:37] feat: add validation logic for user input
 [2021-08-23T10:56:43] refactor: clean up legacy code in core module
 [2021-08-25T10:15:20] fix: handle null pointer exception in service layer
+[2021-08-26T16:38:27] chore: update dependencies
