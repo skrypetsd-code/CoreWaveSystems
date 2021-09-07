@@ -952,3 +952,4 @@
 [2021-09-06T16:55:08] refactor: clean up legacy code in core module
 [2021-09-06T12:43:02] fix: resolve minor bug in api response handling
 [2021-09-07T18:52:16] fix: resolve minor bug in api response handling
+[2021-09-07T10:59:37] fix: resolve minor bug in api response handling
