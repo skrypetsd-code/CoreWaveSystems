@@ -5554,3 +5554,4 @@
 [2021-09-08T15:39:11] fix: handle null pointer exception in service layer
 [2021-09-08T15:18:27] feat: add validation logic for user input
 [2021-09-08T11:30:08] refactor: clean up legacy code in core module
+[2021-09-08T13:25:16] fix: handle null pointer exception in service layer
