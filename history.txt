@@ -5573,3 +5573,4 @@
 [2021-09-20T14:30:03] feat: add validation logic for user input
 [2021-09-21T10:15:32] refactor: clean up legacy code in core module
 [2021-09-21T10:50:04] fix: resolve minor bug in api response handling
+[2021-09-21T11:00:45] feat: add validation logic for user input
