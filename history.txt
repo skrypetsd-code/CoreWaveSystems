@@ -980,3 +980,4 @@
 [2021-09-23T18:26:39] fix: handle null pointer exception in service layer
 [2021-09-23T17:01:23] fix: resolve minor bug in api response handling
 [2021-09-23T15:35:18] feat: add validation logic for user input
+[2021-09-23T16:51:42] fix: handle null pointer exception in service layer
