@@ -988,3 +988,4 @@
 [2021-09-28T17:49:01] chore: update dependencies
 [2021-09-28T13:36:29] fix: resolve minor bug in api response handling
 [2021-09-28T15:37:56] feat: add validation logic for user input
+[2021-09-28T18:36:51] fix: handle null pointer exception in service layer
