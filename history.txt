@@ -5595,3 +5595,4 @@
 [2021-10-01T14:04:54] fix: resolve minor bug in api response handling
 [2021-10-04T18:15:15] feat: add validation logic for user input
 [2021-10-05T13:33:07] feat: add validation logic for user input
+[2021-10-05T10:36:33] refactor: clean up legacy code in core module
