@@ -1033,3 +1033,4 @@
 [2021-10-13T12:31:18] fix: resolve minor bug in api response handling
 [2021-10-13T11:17:04] fix: resolve minor bug in api response handling
 [2021-10-14T10:23:32] chore: update dependencies
+[2021-10-14T17:03:04] fix: resolve minor bug in api response handling
