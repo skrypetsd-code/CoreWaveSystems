@@ -1060,3 +1060,4 @@
 [2021-10-26T14:25:38] chore: update dependencies
 [2021-10-26T18:47:50] chore: update dependencies
 [2021-10-26T14:29:21] fix: resolve minor bug in api response handling
+[2021-10-26T15:44:10] fix: resolve minor bug in api response handling
