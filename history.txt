@@ -5713,3 +5713,4 @@
 [2021-11-30T10:17:36] chore: update dependencies
 [2021-12-01T16:00:52] fix: resolve minor bug in api response handling
 [2021-12-01T13:54:24] feat: add validation logic for user input
+[2021-12-01T15:31:47] fix: resolve minor bug in api response handling
