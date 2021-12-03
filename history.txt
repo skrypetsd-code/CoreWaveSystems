@@ -5720,3 +5720,4 @@
 [2021-12-02T12:42:42] fix: resolve minor bug in api response handling
 [2021-12-03T16:08:15] chore: update dependencies
 [2021-12-03T17:01:00] fix: handle null pointer exception in service layer
+[2021-12-03T18:03:54] fix: handle null pointer exception in service layer
