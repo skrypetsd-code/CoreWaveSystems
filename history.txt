@@ -1160,3 +1160,4 @@
 [2021-12-28T17:47:36] chore: update dependencies
 [2021-12-29T15:43:19] chore: update dependencies
 [2021-12-29T17:09:50] chore: update dependencies
+[2021-12-29T11:15:36] fix: handle null pointer exception in service layer
