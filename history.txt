@@ -5825,3 +5825,4 @@
 [2022-01-20T11:52:55] chore: update dependencies
 [2022-01-20T14:06:20] chore: update dependencies
 [2022-01-20T14:07:34] fix: resolve minor bug in api response handling
+[2022-01-24T15:36:52] chore: update dependencies
