@@ -1216,3 +1216,4 @@
 [2022-01-24T10:45:57] fix: resolve minor bug in api response handling
 [2022-01-26T15:46:59] fix: resolve minor bug in api response handling
 [2022-01-26T11:00:26] chore: update dependencies
+[2022-01-26T18:12:53] fix: resolve minor bug in api response handling
