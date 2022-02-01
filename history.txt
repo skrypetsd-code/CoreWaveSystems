@@ -5846,3 +5846,4 @@
 [2022-01-31T11:42:44] refactor: clean up legacy code in core module
 [2022-02-01T11:08:24] fix: resolve minor bug in api response handling
 [2022-02-01T13:47:52] chore: update dependencies
+[2022-02-01T12:02:09] refactor: clean up legacy code in core module
