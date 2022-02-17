@@ -1252,3 +1252,4 @@
 [2022-02-16T14:42:52] chore: update dependencies
 [2022-02-16T13:56:00] fix: resolve minor bug in api response handling
 [2022-02-17T10:40:09] feat: add validation logic for user input
+[2022-02-17T16:27:26] fix: handle null pointer exception in service layer
