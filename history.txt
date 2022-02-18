@@ -1258,3 +1258,4 @@
 [2022-02-18T18:28:30] feat: add validation logic for user input
 [2022-02-18T11:32:58] feat: add validation logic for user input
 [2022-02-18T16:51:51] feat: add validation logic for user input
+[2022-02-18T14:20:43] fix: handle null pointer exception in service layer
