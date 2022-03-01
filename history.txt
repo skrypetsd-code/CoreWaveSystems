@@ -1277,3 +1277,4 @@
 [2022-02-28T17:55:30] chore: update dependencies
 [2022-02-28T13:14:42] fix: resolve minor bug in api response handling
 [2022-02-28T17:26:30] fix: handle null pointer exception in service layer
+[2022-03-01T17:10:38] fix: handle null pointer exception in service layer
