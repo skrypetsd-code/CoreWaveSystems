@@ -1300,3 +1300,4 @@
 [2022-03-08T16:11:38] fix: resolve minor bug in api response handling
 [2022-03-08T15:03:35] refactor: clean up legacy code in core module
 [2022-03-08T13:05:43] fix: resolve minor bug in api response handling
+[2022-03-08T12:08:36] chore: update dependencies
