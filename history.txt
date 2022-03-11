@@ -5932,3 +5932,4 @@
 [2022-03-11T11:28:02] fix: resolve minor bug in api response handling
 [2022-03-11T17:34:09] chore: update dependencies
 [2022-03-11T11:55:57] chore: update dependencies
+[2022-03-11T15:32:19] fix: resolve minor bug in api response handling
