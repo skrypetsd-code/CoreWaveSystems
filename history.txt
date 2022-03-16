@@ -5940,3 +5940,4 @@
 [2022-03-15T13:23:34] feat: add validation logic for user input
 [2022-03-15T13:52:19] feat: add validation logic for user input
 [2022-03-16T15:31:50] fix: resolve minor bug in api response handling
+[2022-03-16T17:55:18] fix: resolve minor bug in api response handling
