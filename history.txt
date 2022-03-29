@@ -1335,3 +1335,4 @@
 [2022-03-25T18:30:47] feat: add validation logic for user input
 [2022-03-25T18:15:50] refactor: clean up legacy code in core module
 [2022-03-28T13:24:43] fix: handle null pointer exception in service layer
+[2022-03-29T10:14:19] chore: update dependencies
