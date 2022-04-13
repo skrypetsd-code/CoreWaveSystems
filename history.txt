@@ -1367,3 +1367,4 @@
 [2022-04-12T13:55:50] fix: resolve minor bug in api response handling
 [2022-04-12T10:18:19] fix: resolve minor bug in api response handling
 [2022-04-13T11:05:27] fix: resolve minor bug in api response handling
+[2022-04-13T13:15:39] feat: add validation logic for user input
