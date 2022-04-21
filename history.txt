@@ -1381,3 +1381,4 @@
 [2022-04-20T16:29:34] chore: update dependencies
 [2022-04-21T16:21:42] fix: resolve minor bug in api response handling
 [2022-04-21T14:14:18] fix: resolve minor bug in api response handling
+[2022-04-21T14:56:28] feat: add validation logic for user input
