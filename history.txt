@@ -1386,3 +1386,4 @@
 [2022-04-22T14:19:34] feat: add validation logic for user input
 [2022-04-22T18:01:39] fix: resolve minor bug in api response handling
 [2022-04-22T18:30:03] feat: add validation logic for user input
+[2022-04-22T12:25:02] refactor: clean up legacy code in core module
