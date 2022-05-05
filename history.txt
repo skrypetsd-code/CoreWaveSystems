@@ -6021,3 +6021,4 @@
 [2022-05-03T15:26:29] fix: handle null pointer exception in service layer
 [2022-05-03T12:29:05] fix: handle null pointer exception in service layer
 [2022-05-05T11:14:07] chore: update dependencies
+[2022-05-05T13:58:47] fix: handle null pointer exception in service layer
