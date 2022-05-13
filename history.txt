@@ -1427,3 +1427,4 @@
 [2022-05-13T17:29:06] refactor: clean up legacy code in core module
 [2022-05-13T17:09:53] fix: resolve minor bug in api response handling
 [2022-05-13T10:30:14] refactor: clean up legacy code in core module
+[2022-05-13T14:16:00] feat: add validation logic for user input
