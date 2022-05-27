@@ -6076,3 +6076,4 @@
 [2022-05-25T17:44:59] feat: add validation logic for user input
 [2022-05-25T11:30:46] fix: resolve minor bug in api response handling
 [2022-05-27T17:18:41] fix: handle null pointer exception in service layer
+[2022-05-27T17:53:50] feat: add validation logic for user input
