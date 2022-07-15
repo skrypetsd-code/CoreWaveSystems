@@ -1543,3 +1543,4 @@
 [2022-07-15T13:38:38] chore: update dependencies
 [2022-07-15T18:54:01] chore: update dependencies
 [2022-07-15T16:25:46] chore: update dependencies
+[2022-07-15T13:21:41] fix: resolve minor bug in api response handling
