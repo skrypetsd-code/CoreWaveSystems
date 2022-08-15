@@ -1591,3 +1591,4 @@
 [2022-08-12T18:37:15] refactor: clean up legacy code in core module
 [2022-08-12T15:05:19] refactor: clean up legacy code in core module
 [2022-08-15T12:12:13] refactor: clean up legacy code in core module
+[2022-08-15T16:59:34] fix: resolve minor bug in api response handling
