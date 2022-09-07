@@ -1628,3 +1628,4 @@
 [2022-09-02T13:13:35] chore: update dependencies
 [2022-09-05T11:32:55] fix: resolve minor bug in api response handling
 [2022-09-07T11:31:13] fix: handle null pointer exception in service layer
+[2022-09-07T11:44:10] fix: handle null pointer exception in service layer
