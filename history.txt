@@ -1710,3 +1710,4 @@
 [2022-10-11T15:39:52] fix: resolve minor bug in api response handling
 [2022-10-11T12:20:00] fix: resolve minor bug in api response handling
 [2022-10-11T11:37:58] fix: resolve minor bug in api response handling
+[2022-10-11T13:26:37] fix: resolve minor bug in api response handling
