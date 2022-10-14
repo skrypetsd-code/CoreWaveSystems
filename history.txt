@@ -1717,3 +1717,4 @@
 [2022-10-12T15:56:33] chore: update dependencies
 [2022-10-12T17:57:38] fix: resolve minor bug in api response handling
 [2022-10-13T13:12:53] refactor: clean up legacy code in core module
+[2022-10-14T16:04:19] fix: resolve minor bug in api response handling
