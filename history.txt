@@ -1719,3 +1719,4 @@
 [2022-10-13T13:12:53] refactor: clean up legacy code in core module
 [2022-10-14T16:04:19] fix: resolve minor bug in api response handling
 [2022-10-14T11:47:26] fix: resolve minor bug in api response handling
+[2022-10-14T13:56:42] fix: resolve minor bug in api response handling
