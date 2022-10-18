@@ -1721,3 +1721,4 @@
 [2022-10-14T11:47:26] fix: resolve minor bug in api response handling
 [2022-10-14T13:56:42] fix: resolve minor bug in api response handling
 [2022-10-14T13:15:15] feat: add validation logic for user input
+[2022-10-18T12:00:04] refactor: clean up legacy code in core module
