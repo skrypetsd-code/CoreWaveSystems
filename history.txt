@@ -1742,3 +1742,4 @@
 [2022-10-26T12:28:09] feat: add validation logic for user input
 [2022-10-26T17:50:12] feat: add validation logic for user input
 [2022-10-27T14:25:44] chore: update dependencies
+[2022-10-27T14:09:51] fix: resolve minor bug in api response handling
