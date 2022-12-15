@@ -1821,3 +1821,4 @@
 [2022-12-14T15:00:59] fix: handle null pointer exception in service layer
 [2022-12-14T12:55:40] fix: handle null pointer exception in service layer
 [2022-12-14T15:23:14] feat: add validation logic for user input
+[2022-12-15T16:06:51] fix: handle null pointer exception in service layer
