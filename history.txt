@@ -1853,3 +1853,4 @@
 [2023-01-04T18:49:36] refactor: clean up legacy code in core module
 [2023-01-05T10:15:38] refactor: clean up legacy code in core module
 [2023-01-05T13:41:20] refactor: clean up legacy code in core module
+[2023-01-05T15:39:14] chore: update dependencies
