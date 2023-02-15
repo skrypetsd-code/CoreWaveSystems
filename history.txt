@@ -1939,3 +1939,4 @@
 [2023-02-15T16:59:02] refactor: clean up legacy code in core module
 [2023-02-15T11:26:34] feat: add validation logic for user input
 [2023-02-15T13:59:49] feat: add validation logic for user input
+[2023-02-15T15:51:49] feat: add validation logic for user input
