@@ -1948,3 +1948,4 @@
 [2023-02-17T17:41:20] fix: resolve minor bug in api response handling
 [2023-02-17T11:14:57] feat: add validation logic for user input
 [2023-02-17T14:03:33] refactor: clean up legacy code in core module
+[2023-02-17T14:31:16] fix: resolve minor bug in api response handling
