@@ -2001,3 +2001,4 @@
 [2023-03-22T17:26:00] fix: resolve minor bug in api response handling
 [2023-03-22T18:44:53] refactor: clean up legacy code in core module
 [2023-03-22T16:59:40] feat: add validation logic for user input
+[2023-03-22T12:47:50] feat: add validation logic for user input
