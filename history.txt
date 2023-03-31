@@ -2020,3 +2020,4 @@
 [2023-03-30T10:16:39] feat: add validation logic for user input
 [2023-03-30T11:42:02] chore: update dependencies
 [2023-03-30T10:44:50] refactor: clean up legacy code in core module
+[2023-03-31T18:30:59] fix: resolve minor bug in api response handling
