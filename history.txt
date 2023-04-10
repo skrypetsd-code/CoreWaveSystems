@@ -2045,3 +2045,4 @@
 [2023-04-07T18:54:07] refactor: clean up legacy code in core module
 [2023-04-07T15:06:19] fix: resolve minor bug in api response handling
 [2023-04-07T16:45:41] refactor: clean up legacy code in core module
+[2023-04-10T14:37:48] fix: resolve minor bug in api response handling
