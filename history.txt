@@ -2071,3 +2071,4 @@
 [2023-04-17T15:34:52] chore: update dependencies
 [2023-04-17T15:14:08] fix: handle null pointer exception in service layer
 [2023-04-17T11:42:06] fix: handle null pointer exception in service layer
+[2023-04-18T13:22:22] fix: handle null pointer exception in service layer
