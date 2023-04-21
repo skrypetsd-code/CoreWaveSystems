@@ -2080,3 +2080,4 @@
 [2023-04-20T14:40:32] fix: resolve minor bug in api response handling
 [2023-04-20T16:50:10] chore: update dependencies
 [2023-04-20T17:14:14] chore: update dependencies
+[2023-04-21T14:43:34] feat: add validation logic for user input
