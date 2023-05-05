@@ -2104,3 +2104,4 @@
 [2023-05-03T14:35:14] fix: resolve minor bug in api response handling
 [2023-05-03T10:25:51] fix: resolve minor bug in api response handling
 [2023-05-03T11:08:51] fix: resolve minor bug in api response handling
+[2023-05-05T18:33:12] chore: update dependencies
