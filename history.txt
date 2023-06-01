@@ -2167,3 +2167,4 @@
 [2023-05-31T15:23:57] fix: resolve minor bug in api response handling
 [2023-05-31T10:09:35] fix: handle null pointer exception in service layer
 [2023-05-31T18:44:01] feat: add validation logic for user input
+[2023-06-01T18:31:04] refactor: clean up legacy code in core module
