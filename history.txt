@@ -2179,3 +2179,4 @@
 [2023-06-05T18:15:20] fix: resolve minor bug in api response handling
 [2023-06-05T10:09:42] chore: update dependencies
 [2023-06-06T17:54:15] refactor: clean up legacy code in core module
+[2023-06-08T10:05:41] feat: add validation logic for user input
