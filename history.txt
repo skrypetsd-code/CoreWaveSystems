@@ -2209,3 +2209,4 @@
 [2023-06-16T14:01:13] fix: resolve minor bug in api response handling
 [2023-06-19T11:27:27] chore: update dependencies
 [2023-06-19T17:42:04] chore: update dependencies
+[2023-06-19T10:28:06] fix: resolve minor bug in api response handling
