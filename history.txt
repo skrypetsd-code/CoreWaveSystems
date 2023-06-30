@@ -2230,3 +2230,4 @@
 [2023-06-23T15:18:16] fix: handle null pointer exception in service layer
 [2023-06-30T13:30:26] fix: handle null pointer exception in service layer
 [2023-06-30T10:37:52] fix: resolve minor bug in api response handling
+[2023-06-30T18:27:29] fix: resolve minor bug in api response handling
