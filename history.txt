@@ -2239,3 +2239,4 @@
 [2023-07-04T11:27:25] fix: handle null pointer exception in service layer
 [2023-07-05T13:44:42] feat: add validation logic for user input
 [2023-07-06T11:17:18] chore: update dependencies
+[2023-07-06T10:27:47] fix: resolve minor bug in api response handling
