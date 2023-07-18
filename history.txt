@@ -2260,3 +2260,4 @@
 [2023-07-14T18:25:41] fix: handle null pointer exception in service layer
 [2023-07-14T12:58:40] refactor: clean up legacy code in core module
 [2023-07-17T10:23:59] feat: add validation logic for user input
+[2023-07-18T11:11:28] feat: add validation logic for user input
