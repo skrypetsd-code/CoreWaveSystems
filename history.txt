@@ -2309,3 +2309,4 @@
 [2023-08-10T14:57:06] feat: add validation logic for user input
 [2023-08-10T13:43:53] fix: resolve minor bug in api response handling
 [2023-08-10T14:02:37] fix: handle null pointer exception in service layer
+[2023-08-17T14:00:30] refactor: clean up legacy code in core module
