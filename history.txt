@@ -2360,3 +2360,4 @@
 [2023-09-08T14:27:47] chore: update dependencies
 [2023-09-08T14:56:31] chore: update dependencies
 [2023-09-08T12:09:26] fix: handle null pointer exception in service layer
+[2023-09-11T13:07:46] fix: handle null pointer exception in service layer
