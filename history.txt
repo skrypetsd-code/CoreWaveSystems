@@ -2379,3 +2379,4 @@
 [2023-09-14T10:43:05] refactor: clean up legacy code in core module
 [2023-09-14T13:51:04] fix: resolve minor bug in api response handling
 [2023-09-14T14:17:12] fix: handle null pointer exception in service layer
+[2023-09-14T16:49:33] fix: resolve minor bug in api response handling
