@@ -2402,3 +2402,4 @@
 [2023-09-27T17:50:41] fix: resolve minor bug in api response handling
 [2023-09-27T12:30:29] refactor: clean up legacy code in core module
 [2023-09-27T10:22:25] fix: resolve minor bug in api response handling
+[2023-09-28T12:33:43] chore: update dependencies
