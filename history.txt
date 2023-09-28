@@ -2406,3 +2406,4 @@
 [2023-09-28T14:10:44] fix: resolve minor bug in api response handling
 [2023-09-28T13:45:43] chore: update dependencies
 [2023-09-28T15:02:25] feat: add validation logic for user input
+[2023-09-28T13:29:01] fix: resolve minor bug in api response handling
