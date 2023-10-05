@@ -2418,3 +2418,4 @@
 [2023-10-04T10:47:35] refactor: clean up legacy code in core module
 [2023-10-04T11:47:05] refactor: clean up legacy code in core module
 [2023-10-04T14:35:53] fix: resolve minor bug in api response handling
+[2023-10-05T12:52:09] fix: resolve minor bug in api response handling
