@@ -2443,3 +2443,4 @@
 [2023-10-11T14:17:00] refactor: clean up legacy code in core module
 [2023-10-11T15:58:07] chore: update dependencies
 [2023-10-11T16:10:17] fix: handle null pointer exception in service layer
+[2023-10-12T14:18:32] refactor: clean up legacy code in core module
