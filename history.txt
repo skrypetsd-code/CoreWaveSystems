@@ -2563,3 +2563,4 @@
 [2023-11-30T18:48:01] chore: update dependencies
 [2023-11-30T18:39:42] fix: resolve minor bug in api response handling
 [2023-11-30T10:29:13] chore: update dependencies
+[2023-11-30T14:53:38] fix: resolve minor bug in api response handling
