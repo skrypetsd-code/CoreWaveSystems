@@ -2562,3 +2562,4 @@
 [2023-11-30T15:12:33] fix: handle null pointer exception in service layer
 [2023-11-30T18:48:01] chore: update dependencies
 [2023-11-30T18:39:42] fix: resolve minor bug in api response handling
+[2023-11-30T10:29:13] chore: update dependencies
