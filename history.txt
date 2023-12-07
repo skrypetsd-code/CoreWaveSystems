@@ -2580,3 +2580,4 @@
 [2023-12-07T18:36:18] feat: add validation logic for user input
 [2023-12-07T12:40:54] feat: add validation logic for user input
 [2023-12-07T16:42:44] feat: add validation logic for user input
+[2023-12-07T16:23:25] chore: update dependencies
