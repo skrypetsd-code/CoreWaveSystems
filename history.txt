@@ -6553,3 +6553,4 @@
 [2024-01-01T17:32:53] refactor: clean up legacy code in core module
 [2024-01-01T17:58:15] refactor: clean up legacy code in core module
 [2024-01-03T10:01:00] fix: resolve minor bug in api response handling
+[2024-01-04T17:50:46] fix: resolve minor bug in api response handling
