@@ -6592,3 +6592,4 @@
 [2024-01-22T12:32:51] fix: resolve minor bug in api response handling
 [2024-01-22T11:24:45] chore: update dependencies
 [2024-01-22T15:22:11] chore: update dependencies
+[2024-01-23T16:10:51] refactor: clean up legacy code in core module
