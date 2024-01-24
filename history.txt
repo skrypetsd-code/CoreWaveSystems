@@ -7715,3 +7715,4 @@
 [2024-01-24T18:01:27] chore: update dependencies
 [2024-01-24T10:51:21] fix: resolve minor bug in api response handling
 [2024-01-24T17:57:30] fix: resolve minor bug in api response handling
+[2024-01-24T10:58:50] fix: resolve minor bug in api response handling
