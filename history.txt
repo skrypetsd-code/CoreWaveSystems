@@ -6601,3 +6601,4 @@
 [2024-01-26T14:10:55] refactor: clean up legacy code in core module
 [2024-01-29T10:43:58] fix: handle null pointer exception in service layer
 [2024-01-31T11:58:53] fix: resolve minor bug in api response handling
+[2024-02-01T14:40:55] chore: update dependencies
