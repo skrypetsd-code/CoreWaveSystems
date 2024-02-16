@@ -7773,3 +7773,4 @@
 [2024-02-15T18:18:54] feat: add validation logic for user input
 [2024-02-16T12:05:23] fix: resolve minor bug in api response handling
 [2024-02-16T14:10:30] fix: handle null pointer exception in service layer
+[2024-02-16T11:25:59] fix: resolve minor bug in api response handling
