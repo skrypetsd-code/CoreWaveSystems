@@ -7771,3 +7771,4 @@
 [2024-02-15T16:37:44] fix: resolve minor bug in api response handling
 [2024-02-15T16:02:37] fix: resolve minor bug in api response handling
 [2024-02-15T18:18:54] feat: add validation logic for user input
+[2024-02-16T12:05:23] fix: resolve minor bug in api response handling
