@@ -6634,3 +6634,4 @@
 [2024-02-14T11:25:18] chore: update dependencies
 [2024-02-15T18:27:31] fix: resolve minor bug in api response handling
 [2024-02-15T10:14:03] refactor: clean up legacy code in core module
+[2024-02-19T16:15:46] feat: add validation logic for user input
