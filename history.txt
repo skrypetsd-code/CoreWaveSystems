@@ -7792,3 +7792,4 @@
 [2024-02-21T12:41:53] fix: resolve minor bug in api response handling
 [2024-02-22T12:35:02] fix: handle null pointer exception in service layer
 [2024-02-22T11:40:58] refactor: clean up legacy code in core module
+[2024-02-22T15:22:21] fix: resolve minor bug in api response handling
