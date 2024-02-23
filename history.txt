@@ -7795,3 +7795,4 @@
 [2024-02-22T15:22:21] fix: resolve minor bug in api response handling
 [2024-02-23T15:45:25] fix: handle null pointer exception in service layer
 [2024-02-23T17:47:25] fix: handle null pointer exception in service layer
+[2024-02-23T18:16:58] fix: resolve minor bug in api response handling
