@@ -6670,3 +6670,4 @@
 [2024-03-04T10:28:32] fix: handle null pointer exception in service layer
 [2024-03-04T16:21:32] fix: resolve minor bug in api response handling
 [2024-03-05T11:50:11] fix: resolve minor bug in api response handling
+[2024-03-05T11:48:42] fix: resolve minor bug in api response handling
