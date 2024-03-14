@@ -2777,3 +2777,4 @@
 [2024-03-13T12:33:17] fix: resolve minor bug in api response handling
 [2024-03-14T14:06:16] feat: add validation logic for user input
 [2024-03-14T16:14:51] feat: add validation logic for user input
+[2024-03-14T14:38:34] chore: update dependencies
