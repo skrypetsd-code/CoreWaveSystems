@@ -7878,3 +7878,4 @@
 [2024-04-02T15:45:52] fix: resolve minor bug in api response handling
 [2024-04-03T15:10:24] fix: resolve minor bug in api response handling
 [2024-04-04T14:51:28] fix: resolve minor bug in api response handling
+[2024-04-04T10:20:48] fix: resolve minor bug in api response handling
