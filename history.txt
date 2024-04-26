@@ -7915,3 +7915,4 @@
 [2024-04-26T10:45:14] chore: update dependencies
 [2024-04-26T17:22:45] chore: update dependencies
 [2024-04-26T11:20:56] fix: handle null pointer exception in service layer
+[2024-04-26T10:47:38] feat: add validation logic for user input
