@@ -7939,3 +7939,4 @@
 [2024-05-08T12:52:42] fix: resolve minor bug in api response handling
 [2024-05-08T15:58:32] refactor: clean up legacy code in core module
 [2024-05-09T15:23:02] fix: resolve minor bug in api response handling
+[2024-05-09T13:03:17] chore: update dependencies
