@@ -2904,3 +2904,4 @@
 [2024-05-09T17:08:51] fix: handle null pointer exception in service layer
 [2024-05-14T14:22:33] refactor: clean up legacy code in core module
 [2024-05-14T14:46:46] fix: handle null pointer exception in service layer
+[2024-05-14T12:13:18] fix: handle null pointer exception in service layer
