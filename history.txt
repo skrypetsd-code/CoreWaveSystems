@@ -2924,3 +2924,4 @@
 [2024-05-21T14:25:20] refactor: clean up legacy code in core module
 [2024-05-21T11:09:48] fix: handle null pointer exception in service layer
 [2024-05-21T10:01:07] fix: handle null pointer exception in service layer
+[2024-05-21T10:49:35] chore: update dependencies
