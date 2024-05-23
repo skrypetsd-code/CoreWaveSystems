@@ -2927,3 +2927,4 @@
 [2024-05-21T10:49:35] chore: update dependencies
 [2024-05-21T10:30:28] refactor: clean up legacy code in core module
 [2024-05-23T17:56:35] refactor: clean up legacy code in core module
+[2024-05-23T14:07:06] fix: resolve minor bug in api response handling
