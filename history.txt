@@ -6856,3 +6856,4 @@
 [2024-05-29T12:16:38] chore: update dependencies
 [2024-05-29T14:21:08] chore: update dependencies
 [2024-05-29T17:26:40] chore: update dependencies
+[2024-05-31T17:49:51] feat: add validation logic for user input
