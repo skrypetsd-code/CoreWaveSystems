@@ -2955,3 +2955,4 @@
 [2024-06-07T13:22:21] feat: add validation logic for user input
 [2024-06-07T14:31:09] fix: handle null pointer exception in service layer
 [2024-06-07T13:19:55] feat: add validation logic for user input
+[2024-06-07T15:43:00] chore: update dependencies
