@@ -8003,3 +8003,4 @@
 [2024-06-06T10:03:25] fix: handle null pointer exception in service layer
 [2024-06-10T13:51:07] fix: handle null pointer exception in service layer
 [2024-06-10T14:46:49] fix: resolve minor bug in api response handling
+[2024-06-10T15:12:58] fix: handle null pointer exception in service layer
