@@ -6899,3 +6899,4 @@
 [2024-06-21T18:16:13] feat: add validation logic for user input
 [2024-06-21T11:02:16] fix: resolve minor bug in api response handling
 [2024-06-24T18:40:08] chore: update dependencies
+[2024-06-24T17:23:20] feat: add validation logic for user input
