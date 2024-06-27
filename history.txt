@@ -8026,3 +8026,4 @@
 [2024-06-26T18:22:25] fix: resolve minor bug in api response handling
 [2024-06-27T12:32:43] refactor: clean up legacy code in core module
 [2024-06-27T12:53:15] feat: add validation logic for user input
+[2024-06-27T14:33:17] fix: resolve minor bug in api response handling
