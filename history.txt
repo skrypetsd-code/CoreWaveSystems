@@ -8030,3 +8030,4 @@
 [2024-06-27T12:38:26] refactor: clean up legacy code in core module
 [2024-06-27T11:19:14] feat: add validation logic for user input
 [2024-06-27T14:24:10] fix: resolve minor bug in api response handling
+[2024-06-28T12:59:25] fix: handle null pointer exception in service layer
