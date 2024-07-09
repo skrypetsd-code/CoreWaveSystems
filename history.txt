@@ -8048,3 +8048,4 @@
 [2024-07-09T12:50:08] chore: update dependencies
 [2024-07-09T12:57:50] fix: resolve minor bug in api response handling
 [2024-07-09T15:10:02] fix: resolve minor bug in api response handling
+[2024-07-09T14:07:49] fix: handle null pointer exception in service layer
