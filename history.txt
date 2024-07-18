@@ -3037,3 +3037,4 @@
 [2024-07-18T12:25:32] fix: handle null pointer exception in service layer
 [2024-07-18T10:15:23] fix: handle null pointer exception in service layer
 [2024-07-18T12:20:57] fix: handle null pointer exception in service layer
+[2024-07-18T13:07:14] chore: update dependencies
