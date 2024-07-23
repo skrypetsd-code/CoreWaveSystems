@@ -6962,3 +6962,4 @@
 [2024-07-19T14:29:41] chore: update dependencies
 [2024-07-19T11:55:36] refactor: clean up legacy code in core module
 [2024-07-22T16:18:31] refactor: clean up legacy code in core module
+[2024-07-23T12:14:14] chore: update dependencies
