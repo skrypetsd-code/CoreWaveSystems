@@ -3050,3 +3050,4 @@
 [2024-07-25T13:44:11] chore: update dependencies
 [2024-07-29T16:39:28] fix: handle null pointer exception in service layer
 [2024-07-29T18:19:33] chore: update dependencies
+[2024-07-29T11:37:49] fix: handle null pointer exception in service layer
