@@ -3055,3 +3055,4 @@
 [2024-07-29T13:54:34] fix: handle null pointer exception in service layer
 [2024-07-30T10:41:59] feat: add validation logic for user input
 [2024-07-30T17:06:19] fix: resolve minor bug in api response handling
+[2024-07-31T16:43:28] fix: resolve minor bug in api response handling
