@@ -6995,3 +6995,4 @@
 [2024-08-05T13:20:09] refactor: clean up legacy code in core module
 [2024-08-06T12:21:38] refactor: clean up legacy code in core module
 [2024-08-06T11:40:26] fix: resolve minor bug in api response handling
+[2024-08-06T18:21:54] refactor: clean up legacy code in core module
