@@ -6998,3 +6998,4 @@
 [2024-08-06T18:21:54] refactor: clean up legacy code in core module
 [2024-08-06T18:41:13] feat: add validation logic for user input
 [2024-08-09T16:41:29] fix: handle null pointer exception in service layer
+[2024-08-09T13:58:46] fix: resolve minor bug in api response handling
