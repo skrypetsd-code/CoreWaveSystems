@@ -8104,3 +8104,4 @@
 [2024-08-08T13:04:52] fix: handle null pointer exception in service layer
 [2024-08-08T13:31:15] refactor: clean up legacy code in core module
 [2024-08-08T11:24:21] refactor: clean up legacy code in core module
+[2024-08-09T10:56:42] fix: resolve minor bug in api response handling
