@@ -3080,3 +3080,4 @@
 [2024-08-19T10:31:25] fix: resolve minor bug in api response handling
 [2024-08-19T16:12:40] fix: resolve minor bug in api response handling
 [2024-08-20T15:37:03] feat: add validation logic for user input
+[2024-08-21T15:36:58] feat: add validation logic for user input
