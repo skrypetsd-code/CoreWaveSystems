@@ -7045,3 +7045,4 @@
 [2024-08-30T14:34:35] fix: resolve minor bug in api response handling
 [2024-08-30T10:21:57] feat: add validation logic for user input
 [2024-09-02T16:20:32] chore: update dependencies
+[2024-09-03T14:13:58] fix: resolve minor bug in api response handling
