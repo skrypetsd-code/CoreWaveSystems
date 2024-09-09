@@ -8168,3 +8168,4 @@
 [2024-09-05T15:18:28] chore: update dependencies
 [2024-09-05T13:42:59] fix: resolve minor bug in api response handling
 [2024-09-09T11:39:24] chore: update dependencies
+[2024-09-09T16:22:16] fix: resolve minor bug in api response handling
