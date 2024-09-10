@@ -3122,3 +3122,4 @@
 [2024-09-06T18:15:31] chore: update dependencies
 [2024-09-06T18:28:29] fix: handle null pointer exception in service layer
 [2024-09-10T13:47:53] feat: add validation logic for user input
+[2024-09-10T18:46:17] fix: resolve minor bug in api response handling
