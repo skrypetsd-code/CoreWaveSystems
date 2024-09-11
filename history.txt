@@ -8178,3 +8178,4 @@
 [2024-09-11T11:18:46] fix: handle null pointer exception in service layer
 [2024-09-11T15:57:57] fix: resolve minor bug in api response handling
 [2024-09-11T18:02:54] fix: resolve minor bug in api response handling
+[2024-09-11T17:21:23] fix: handle null pointer exception in service layer
