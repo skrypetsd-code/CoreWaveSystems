@@ -8201,3 +8201,4 @@
 [2024-09-24T17:12:44] fix: resolve minor bug in api response handling
 [2024-09-25T11:47:04] refactor: clean up legacy code in core module
 [2024-09-25T13:12:10] fix: resolve minor bug in api response handling
+[2024-09-25T13:14:43] fix: resolve minor bug in api response handling
