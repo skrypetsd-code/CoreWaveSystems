@@ -3183,3 +3183,4 @@
 [2024-10-04T13:36:43] refactor: clean up legacy code in core module
 [2024-10-07T18:49:07] feat: add validation logic for user input
 [2024-10-07T17:40:11] feat: add validation logic for user input
+[2024-10-07T16:12:23] chore: update dependencies
