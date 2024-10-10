@@ -8228,3 +8228,4 @@
 [2024-10-07T15:38:29] fix: resolve minor bug in api response handling
 [2024-10-07T14:42:21] fix: resolve minor bug in api response handling
 [2024-10-10T15:43:33] chore: update dependencies
+[2024-10-10T11:58:07] fix: handle null pointer exception in service layer
