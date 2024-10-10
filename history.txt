@@ -3191,3 +3191,4 @@
 [2024-10-09T11:21:30] feat: add validation logic for user input
 [2024-10-09T10:09:44] fix: resolve minor bug in api response handling
 [2024-10-09T14:49:13] fix: resolve minor bug in api response handling
+[2024-10-10T16:09:54] fix: resolve minor bug in api response handling
