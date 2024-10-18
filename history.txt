@@ -8240,3 +8240,4 @@
 [2024-10-17T17:54:03] feat: add validation logic for user input
 [2024-10-18T15:54:33] fix: handle null pointer exception in service layer
 [2024-10-18T12:37:54] fix: resolve minor bug in api response handling
+[2024-10-18T10:31:12] refactor: clean up legacy code in core module
