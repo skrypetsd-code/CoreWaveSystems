@@ -7153,3 +7153,4 @@
 [2024-10-22T12:58:36] fix: resolve minor bug in api response handling
 [2024-10-22T15:54:55] fix: resolve minor bug in api response handling
 [2024-10-22T15:11:36] feat: add validation logic for user input
+[2024-10-22T12:13:03] fix: handle null pointer exception in service layer
