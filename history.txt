@@ -8260,3 +8260,4 @@
 [2024-10-24T13:27:53] fix: resolve minor bug in api response handling
 [2024-10-25T13:58:43] fix: resolve minor bug in api response handling
 [2024-10-25T11:42:57] fix: resolve minor bug in api response handling
+[2024-10-25T17:53:24] fix: resolve minor bug in api response handling
