@@ -3229,3 +3229,4 @@
 [2024-10-29T10:46:54] fix: handle null pointer exception in service layer
 [2024-10-29T17:34:19] fix: resolve minor bug in api response handling
 [2024-10-29T14:04:32] feat: add validation logic for user input
+[2024-10-29T10:07:48] refactor: clean up legacy code in core module
