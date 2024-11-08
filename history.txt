@@ -3254,3 +3254,4 @@
 [2024-11-07T11:38:06] chore: update dependencies
 [2024-11-07T11:07:50] chore: update dependencies
 [2024-11-07T14:08:48] chore: update dependencies
+[2024-11-08T12:40:09] feat: add validation logic for user input
