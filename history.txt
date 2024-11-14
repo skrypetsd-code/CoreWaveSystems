@@ -7207,3 +7207,4 @@
 [2024-11-12T10:39:10] feat: add validation logic for user input
 [2024-11-12T10:19:55] feat: add validation logic for user input
 [2024-11-12T13:28:41] chore: update dependencies
+[2024-11-14T16:45:31] fix: resolve minor bug in api response handling
