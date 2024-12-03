@@ -8328,3 +8328,4 @@
 [2024-12-03T13:56:49] fix: handle null pointer exception in service layer
 [2024-12-03T13:57:54] refactor: clean up legacy code in core module
 [2024-12-03T11:58:08] refactor: clean up legacy code in core module
+[2024-12-03T18:41:17] feat: add validation logic for user input
