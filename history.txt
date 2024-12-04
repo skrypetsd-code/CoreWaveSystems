@@ -3309,3 +3309,4 @@
 [2024-12-04T18:04:32] feat: add validation logic for user input
 [2024-12-04T13:31:23] fix: resolve minor bug in api response handling
 [2024-12-04T17:32:38] refactor: clean up legacy code in core module
+[2024-12-04T17:19:36] refactor: clean up legacy code in core module
