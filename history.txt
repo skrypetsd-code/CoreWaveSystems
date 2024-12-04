@@ -8333,3 +8333,4 @@
 [2024-12-03T14:43:45] fix: resolve minor bug in api response handling
 [2024-12-04T16:11:23] refactor: clean up legacy code in core module
 [2024-12-04T17:52:53] refactor: clean up legacy code in core module
+[2024-12-04T14:22:00] refactor: clean up legacy code in core module
