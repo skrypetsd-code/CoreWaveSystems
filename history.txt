@@ -7289,3 +7289,4 @@
 [2024-12-24T18:45:56] refactor: clean up legacy code in core module
 [2024-12-25T12:17:43] fix: resolve minor bug in api response handling
 [2024-12-25T10:39:03] feat: add validation logic for user input
+[2024-12-25T17:28:26] refactor: clean up legacy code in core module
