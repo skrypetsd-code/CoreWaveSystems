@@ -8368,3 +8368,4 @@
 [2024-12-25T12:24:47] fix: resolve minor bug in api response handling
 [2024-12-26T13:04:04] chore: update dependencies
 [2024-12-26T17:54:49] chore: update dependencies
+[2024-12-26T12:47:50] fix: handle null pointer exception in service layer
