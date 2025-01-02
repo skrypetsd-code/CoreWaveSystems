@@ -8385,3 +8385,4 @@
 [2025-01-02T14:17:19] refactor: clean up legacy code in core module
 [2025-01-02T10:03:41] refactor: clean up legacy code in core module
 [2025-01-02T14:59:53] refactor: clean up legacy code in core module
+[2025-01-02T16:05:31] fix: resolve minor bug in api response handling
