@@ -8388,3 +8388,4 @@
 [2025-01-02T16:05:31] fix: resolve minor bug in api response handling
 [2025-01-03T13:31:08] refactor: clean up legacy code in core module
 [2025-01-03T10:08:17] refactor: clean up legacy code in core module
+[2025-01-03T18:48:56] chore: update dependencies
