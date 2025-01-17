@@ -3394,3 +3394,4 @@
 [2025-01-15T15:05:08] feat: add validation logic for user input
 [2025-01-17T13:57:06] feat: add validation logic for user input
 [2025-01-17T11:28:27] refactor: clean up legacy code in core module
+[2025-01-17T14:52:57] fix: handle null pointer exception in service layer
