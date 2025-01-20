@@ -3400,3 +3400,4 @@
 [2025-01-20T16:44:34] fix: handle null pointer exception in service layer
 [2025-01-20T15:58:08] fix: handle null pointer exception in service layer
 [2025-01-20T11:17:07] fix: handle null pointer exception in service layer
+[2025-01-20T17:36:05] fix: handle null pointer exception in service layer
