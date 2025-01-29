@@ -7360,3 +7360,4 @@
 [2025-01-29T10:50:25] chore: update dependencies
 [2025-01-29T11:57:01] fix: resolve minor bug in api response handling
 [2025-01-29T17:22:19] fix: resolve minor bug in api response handling
+[2025-01-29T18:44:16] fix: resolve minor bug in api response handling
