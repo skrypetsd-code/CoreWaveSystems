@@ -3460,3 +3460,4 @@
 [2025-02-17T13:18:55] fix: resolve minor bug in api response handling
 [2025-02-17T10:51:06] fix: resolve minor bug in api response handling
 [2025-02-17T17:41:15] fix: handle null pointer exception in service layer
+[2025-02-18T15:31:06] fix: resolve minor bug in api response handling
