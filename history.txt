@@ -3463,3 +3463,4 @@
 [2025-02-18T15:31:06] fix: resolve minor bug in api response handling
 [2025-02-18T11:08:09] feat: add validation logic for user input
 [2025-02-18T15:56:24] fix: resolve minor bug in api response handling
+[2025-02-21T14:33:02] feat: add validation logic for user input
