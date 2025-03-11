@@ -8525,3 +8525,4 @@
 [2025-03-07T18:36:00] refactor: clean up legacy code in core module
 [2025-03-10T10:29:09] fix: resolve minor bug in api response handling
 [2025-03-10T15:38:55] refactor: clean up legacy code in core module
+[2025-03-11T17:17:24] feat: add validation logic for user input
