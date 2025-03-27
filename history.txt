@@ -8569,3 +8569,4 @@
 [2025-03-27T11:20:24] chore: update dependencies
 [2025-03-27T13:32:26] fix: resolve minor bug in api response handling
 [2025-03-27T14:03:05] fix: resolve minor bug in api response handling
+[2025-03-27T16:11:44] fix: resolve minor bug in api response handling
