@@ -8570,3 +8570,4 @@
 [2025-03-27T13:32:26] fix: resolve minor bug in api response handling
 [2025-03-27T14:03:05] fix: resolve minor bug in api response handling
 [2025-03-27T16:11:44] fix: resolve minor bug in api response handling
+[2025-03-31T11:35:53] fix: handle null pointer exception in service layer
