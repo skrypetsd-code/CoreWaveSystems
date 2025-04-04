@@ -7489,3 +7489,4 @@
 [2025-04-03T17:34:39] chore: update dependencies
 [2025-04-03T13:45:10] refactor: clean up legacy code in core module
 [2025-04-04T13:55:28] fix: handle null pointer exception in service layer
+[2025-04-04T14:24:46] fix: handle null pointer exception in service layer
