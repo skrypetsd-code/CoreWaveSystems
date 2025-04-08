@@ -3557,3 +3557,4 @@
 [2025-04-04T15:14:36] fix: resolve minor bug in api response handling
 [2025-04-08T15:55:30] refactor: clean up legacy code in core module
 [2025-04-08T16:07:36] fix: resolve minor bug in api response handling
+[2025-04-08T17:30:09] refactor: clean up legacy code in core module
