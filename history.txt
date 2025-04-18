@@ -8610,3 +8610,4 @@
 [2025-04-17T15:25:15] fix: handle null pointer exception in service layer
 [2025-04-18T16:58:15] feat: add validation logic for user input
 [2025-04-18T14:56:40] feat: add validation logic for user input
+[2025-04-18T15:01:34] fix: resolve minor bug in api response handling
