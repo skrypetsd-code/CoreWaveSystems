@@ -7598,3 +7598,4 @@
 [2025-05-14T15:14:32] chore: update dependencies
 [2025-05-14T12:23:21] fix: handle null pointer exception in service layer
 [2025-05-15T12:41:50] fix: resolve minor bug in api response handling
+[2025-05-15T18:57:43] fix: resolve minor bug in api response handling
