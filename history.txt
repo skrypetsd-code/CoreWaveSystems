@@ -8660,3 +8660,4 @@
 [2025-05-19T17:36:41] fix: resolve minor bug in api response handling
 [2025-05-19T18:07:55] chore: update dependencies
 [2025-05-19T11:34:18] chore: update dependencies
+[2025-05-20T10:00:45] fix: handle null pointer exception in service layer
