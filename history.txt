@@ -7617,3 +7617,4 @@
 [2025-05-22T12:29:32] fix: resolve minor bug in api response handling
 [2025-05-22T10:08:39] fix: resolve minor bug in api response handling
 [2025-05-22T13:02:58] feat: add validation logic for user input
+[2025-05-23T17:56:19] fix: handle null pointer exception in service layer
