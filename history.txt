@@ -8687,3 +8687,4 @@
 [2025-06-02T11:13:17] fix: resolve minor bug in api response handling
 [2025-06-02T10:20:48] fix: resolve minor bug in api response handling
 [2025-06-02T14:10:32] feat: add validation logic for user input
+[2025-06-02T11:58:58] fix: resolve minor bug in api response handling
