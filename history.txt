@@ -3655,3 +3655,4 @@
 [2025-06-09T15:53:57] feat: add validation logic for user input
 [2025-06-09T13:03:34] chore: update dependencies
 [2025-06-09T18:19:16] fix: handle null pointer exception in service layer
+[2025-06-09T12:04:24] refactor: clean up legacy code in core module
