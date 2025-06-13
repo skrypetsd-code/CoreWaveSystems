@@ -3665,3 +3665,4 @@
 [2025-06-11T18:25:12] fix: resolve minor bug in api response handling
 [2025-06-13T14:40:05] chore: update dependencies
 [2025-06-13T12:08:22] chore: update dependencies
+[2025-06-13T15:24:24] feat: add validation logic for user input
