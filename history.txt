@@ -3698,3 +3698,4 @@
 [2025-07-03T17:10:08] fix: resolve minor bug in api response handling
 [2025-07-03T16:34:33] fix: resolve minor bug in api response handling
 [2025-07-03T18:53:43] chore: update dependencies
+[2025-07-04T10:51:50] fix: resolve minor bug in api response handling
