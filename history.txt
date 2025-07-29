@@ -3753,3 +3753,4 @@
 [2025-07-25T14:22:40] chore: update dependencies
 [2025-07-29T17:58:58] chore: update dependencies
 [2025-07-29T12:31:18] fix: resolve minor bug in api response handling
+[2025-07-29T11:25:00] fix: handle null pointer exception in service layer
