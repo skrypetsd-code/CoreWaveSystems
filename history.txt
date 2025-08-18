@@ -3790,3 +3790,4 @@
 [2025-08-18T12:31:30] fix: resolve minor bug in api response handling
 [2025-08-18T10:05:32] refactor: clean up legacy code in core module
 [2025-08-18T14:02:43] fix: resolve minor bug in api response handling
+[2025-08-18T16:09:12] refactor: clean up legacy code in core module
