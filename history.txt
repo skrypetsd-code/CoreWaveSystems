@@ -3820,3 +3820,4 @@
 [2025-08-29T10:42:18] fix: resolve minor bug in api response handling
 [2025-08-29T18:36:58] fix: resolve minor bug in api response handling
 [2025-08-29T13:14:40] fix: resolve minor bug in api response handling
+[2025-08-29T17:51:05] fix: resolve minor bug in api response handling
