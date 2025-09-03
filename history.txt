@@ -3829,3 +3829,4 @@
 [2025-09-02T10:14:06] fix: resolve minor bug in api response handling
 [2025-09-02T16:46:13] chore: update dependencies
 [2025-09-02T12:31:54] fix: resolve minor bug in api response handling
+[2025-09-03T13:44:39] fix: handle null pointer exception in service layer
