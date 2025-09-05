@@ -3835,3 +3835,4 @@
 [2025-09-05T18:10:54] fix: resolve minor bug in api response handling
 [2025-09-05T15:28:34] fix: handle null pointer exception in service layer
 [2025-09-05T15:02:55] chore: update dependencies
+[2025-09-05T14:33:09] fix: handle null pointer exception in service layer
