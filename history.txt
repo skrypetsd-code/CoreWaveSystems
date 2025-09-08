@@ -3839,3 +3839,4 @@
 [2025-09-05T10:40:44] refactor: clean up legacy code in core module
 [2025-09-08T16:46:26] fix: handle null pointer exception in service layer
 [2025-09-08T11:09:00] fix: handle null pointer exception in service layer
+[2025-09-08T17:55:06] fix: resolve minor bug in api response handling
