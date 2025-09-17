@@ -3859,3 +3859,4 @@
 [2025-09-16T17:14:16] chore: update dependencies
 [2025-09-16T10:01:20] fix: resolve minor bug in api response handling
 [2025-09-16T18:12:04] refactor: clean up legacy code in core module
+[2025-09-17T11:09:30] feat: add validation logic for user input
