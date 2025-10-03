@@ -3889,3 +3889,4 @@
 [2025-10-02T13:24:58] chore: update dependencies
 [2025-10-02T17:42:07] feat: add validation logic for user input
 [2025-10-03T18:07:52] feat: add validation logic for user input
+[2025-10-03T14:41:42] fix: resolve minor bug in api response handling
