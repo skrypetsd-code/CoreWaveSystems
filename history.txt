@@ -3893,3 +3893,4 @@
 [2025-10-03T12:37:41] fix: resolve minor bug in api response handling
 [2025-10-03T17:56:23] fix: resolve minor bug in api response handling
 [2025-10-03T14:33:21] fix: resolve minor bug in api response handling
+[2025-10-07T17:47:58] fix: resolve minor bug in api response handling
