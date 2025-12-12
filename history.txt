@@ -4030,3 +4030,4 @@
 [2025-12-10T10:49:40] feat: add validation logic for user input
 [2025-12-10T16:10:47] fix: handle null pointer exception in service layer
 [2025-12-12T12:47:03] fix: handle null pointer exception in service layer
+[2025-12-12T12:21:30] feat: add validation logic for user input
