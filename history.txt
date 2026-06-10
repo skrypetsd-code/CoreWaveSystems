@@ -4429,3 +4429,4 @@
 [2026-06-09T13:15:22] fix: resolve minor bug in api response handling
 [2026-06-10T17:09:16] refactor: clean up legacy code in core module
 [2026-06-10T11:30:34] fix: resolve minor bug in api response handling
+[2026-06-10T13:35:35] refactor: clean up legacy code in core module
