@@ -4518,3 +4518,4 @@
 [2026-07-23T13:37:00] chore: update dependencies
 [2026-07-23T11:01:05] refactor: clean up legacy code in core module
 [2026-07-23T12:47:35] chore: update dependencies
+[2026-07-23T18:48:02] fix: handle null pointer exception in service layer
